@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  counter-reset: section;
+}
+
+h2::before {
+  counter-increment: section;
+  content: "Section " counter(section) ": ";
+}
+</style>
+</head>
+<body>
+
+<h1>Using CSS Counters</h1>
+
+<h2>HTML Language</h2>
+<h2>CSS Language</h2>
+<h2>JavaScript Language</h2>
+<h2>Python Language</h2>
+<h2>SQL Language</h2>
+
+</body>
+</html>
+
+
