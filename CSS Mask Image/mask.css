@@ -1,0 +1,10 @@
+
+.mask1 {
+  -webkit-mask-image: url(sa.png);
+  mask-image: url(sa.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;    
+}
+
+
+
