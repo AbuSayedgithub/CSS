@@ -2,7 +2,7 @@
 .flex-container {
   display: flex;
   flex-flow: row wrap;
-  background-color: DodgerBlue;
+  background-color: rgb(63, 105, 147);
 }
 
 .flex-container > div {
