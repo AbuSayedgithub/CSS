@@ -2,7 +2,7 @@
 .flex-container {
   display: flex;
   flex-direction: row-reverse;
-  background-color: DodgerBlue;
+  background-color: rgb(43, 84, 125);
 }
 
 .flex-container > div {
